@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的页面",
+  "navigationBarShadow": {
+    "colorType": "grey"
+  },
+  "backgroundColor": "#C8C7CC",
+  "usingComponents": {}
+}

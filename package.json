@@ -1,0 +1,23 @@
+{
+  "name": "learnuniapp",
+  "version": "1.0.0",
+  "description": "使用hbuilder x 学习使用uni-app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PengfeiLiOnGit/learnuniapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PengfeiLiOnGit/learnuniapp/issues"
+  },
+  "homepage": "https://github.com/PengfeiLiOnGit/learnuniapp#readme",
+  "dependencies": {
+    "@dcloudio/uni-ui": "^1.0.0"
+  }
+}

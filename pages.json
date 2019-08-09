@@ -108,6 +108,11 @@
 		"current":0,
 		"list":[
 			{
+				"name":"index",
+				"path":"pages/index/index",
+				"query":""
+			},
+			{
 				"name":"me",
 				"path":"pages/me/me",
 				"query":""

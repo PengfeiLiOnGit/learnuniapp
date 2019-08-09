@@ -1,0 +1,9 @@
+
+page{
+	background-color:aqua;
+}
+.top{
+	height: 480rpx;
+	background-image: url(../../static/img/480.9.208122ff.png);
+}
+

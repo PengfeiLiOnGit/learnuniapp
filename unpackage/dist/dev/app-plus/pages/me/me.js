@@ -1,1 +1,2 @@
+setCssToHead(["body{ background-color:aqua; }\n.",[1],"top{ height: ",[0,480],"; background-image: url(../../static/img/480.9.208122ff.png-do-not-use-local-path-./pages/me/me.wxss\x267\x2619); }\n",],undefined,{path:"./pages/me/me.wxss"})();
 document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/me/me.wxml') } }));

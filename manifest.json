@@ -10,6 +10,7 @@
     "debug" : true,
     /* 5+App特有相关 */
     "app-plus" : {
+		"nvueCompiler" : "uni-app",
         "usingComponents" : true,
         "splashscreen" : {
             "alwaysShowBeforeRender" : true,

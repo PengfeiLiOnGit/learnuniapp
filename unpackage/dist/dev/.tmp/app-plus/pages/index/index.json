@@ -57,5 +57,7 @@
       "caption": "正在刷新自定义文本"
     }
   },
-  "usingComponents": {}
+  "usingComponents": {
+    "uni-rate": "/node-modules/@dcloudio/uni-ui/lib/uni-rate/uni-rate"
+  }
 }

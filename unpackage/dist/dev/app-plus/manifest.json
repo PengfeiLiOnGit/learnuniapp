@@ -86,7 +86,7 @@
         }
       }
     },
-    "arguments": "{\"name\":\"me\",\"query\":\"\",\"id\":0,\"pathName\":\"pages/me/me\"}",
+    "arguments": "{\"name\":\"index\",\"query\":\"\",\"id\":0,\"pathName\":\"pages/index/index\"}",
     "allowsInlineMediaPlayback": true,
     "safearea": {
       "background": "#F8F8F8",
